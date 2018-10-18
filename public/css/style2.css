@@ -1,0 +1,12 @@
+.paging{
+	float: right;
+	text-align: right;
+}
+
+.paging ul.pager, .paging ul.pagination{
+	text-align: right;
+}
+
+ul.pagination, ul.pager{
+	margin-top: 8px; 
+}
